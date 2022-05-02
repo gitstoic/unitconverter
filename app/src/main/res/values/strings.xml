@@ -19,4 +19,5 @@
     <string name="ft">ft</string>
     <string name="meter">Meter</string>
     <string name="foot">Foot</string>
+    <string name="unit_converter">Unit Converter</string>
 </resources>
